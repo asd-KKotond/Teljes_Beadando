@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SimaLista/SimaLista.csproj" Id="35dd183b-b314-4d57-8b4f-ed232d71a69e" />
+  <Project Path="SimaLista_Linq/SimaLista_Linq.csproj" Id="2d6e841e-c165-496c-8a21-4c1a670f0ae2" />
+  <Project Path="Tomb/Tomb.csproj" Id="e9b51416-f284-43a8-82f7-642e0271d367" />
+  <Project Path="ToupleLista/ToupleLista.csproj" Id="3312b560-52d1-48aa-b32f-481b4defd3f6" />
+</Solution>
